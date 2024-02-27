@@ -6,7 +6,7 @@
   "gender": "male",
   "occupation": "engineer",
   "hobby": "fgame",
-  "language":["br","cn","mm","bh","my"],
+  "language":["br","kh","mm","bh","my"],
   "dataurl":["https://www.baidu.com/","https://www.baidu.com/","https://www.baidu.com/","https://www.baidu.com/","https://www.baidu.com/"],
   "pet": "dog",
   "salary": 50000,
