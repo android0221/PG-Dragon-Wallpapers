@@ -6,7 +6,7 @@
   "gender": "male",
   "occupation": "engineer",
   "hobby": "fgame",
-  "language": "asffaa",
+  "language":{"br":"https://www.baidu.com/","cn":"https://www.baidu.com/"},
   "pet": "dog",
   "salary": 50000,
   "education": "Bachelor's degree",
